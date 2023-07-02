@@ -1,0 +1,36 @@
+
+
+.all .k img {
+    height: 110px;
+    width: 100px;
+
+}
+.all .k1 img {
+    height: 210px;
+    width: 100px;
+
+
+}
+
+    
+
+.all {
+    display: flex;
+    flex-direction: row;
+  
+}
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 5px;
+
+}
